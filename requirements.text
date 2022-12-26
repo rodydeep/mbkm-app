@@ -11,6 +11,7 @@ numpy\
 string\
 re\
 scikit-learn\
+sklearn\
 Matplotlib.pyplot\
 \
 
