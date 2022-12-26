@@ -125,7 +125,6 @@ def preprocess_data(text):
 
   return text
 
-!pip install streamlit
 
 import streamlit as st
 
