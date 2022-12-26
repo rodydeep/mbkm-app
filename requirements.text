@@ -10,7 +10,7 @@ pandas\
 numpy\
 string\
 re\
-sckit-learn\
+scikit-learn\
 Matplotlib.pyplot\
 \
 
