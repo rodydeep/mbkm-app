@@ -4,5 +4,6 @@ numpy
 string
 re
 scikit-learn
-Matplotlib.pyplot
 nltk
+tensorflow
+matplotlib
